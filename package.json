@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mrhooray/swim-js.git"
+    "url": "https://github.com/jacobbubu/swim-js.git"
   },
   "keywords": [
     "gossip",
@@ -22,9 +22,9 @@
   "author": "Rui Hu <code@mrhooray.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mrhooray/swim-js/issues"
+    "url": "https://github.com/jacobbubu/swim-js/issues"
   },
-  "homepage": "https://github.com/mrhooray/swim-js",
+  "homepage": "https://github.com/jacobbubu/swim-js",
   "devDependencies": {
     "async": "^3.1.0",
     "covert": "^1.1.1",
